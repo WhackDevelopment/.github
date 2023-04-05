@@ -1,6 +1,6 @@
 <div align="center">
     <a target="_blank" href="https://whackdevelopment.com/">
-        <img target="_blank" style="border-radius:50%;" width="450" height="450" src="https://avatars.githubusercontent.com/u/110769913"/>
+        <img target="_blank" style="border-radius:50%;" width="200" height="200" src="https://avatars.githubusercontent.com/u/110769913"/>
     </a>
 </div>
 <div align="center">
